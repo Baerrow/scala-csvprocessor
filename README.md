@@ -1,1 +1,1 @@
-# scala-csvprocessor
+Scala application showing how to read and process a CSV file. You can find more info at http://lucianomolinari.com/2016/04/30/reading-and-processing-a-csv-file-with-scala/
